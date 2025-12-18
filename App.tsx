@@ -149,12 +149,12 @@ const App: React.FC = () => {
                     <div className="absolute inset-0 bg-white/20 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-500"></div>
                   </a>
                 <a
-  href="https://raw.githubusercontent.com/hxppyKhoza/Potfolio-Website/main/Happy_Khoza_Junior_AI_ML_Developer_CV.pdf"
-  download="Happy_Khoza_CV.pdf"
-  className="px-8 py-4 border border-[#00FF41] text-[#00FF41] font-bold mono flex items-center gap-2 hover:bg-[#00FF41]/10 transition-colors"
->
-  DOWNLOAD_INTEL.PDF <Download size={18} />
-</a>
+                  href="https://raw.githubusercontent.com/hxppyKhoza/Potfolio-Website/main/Happy_Khoza_Junior_AI_ML_Developer_CV.pdf"
+                  download="Happy_Khoza_CV.pdf"
+                  className="px-8 py-4 border border-[#00FF41] text-[#00FF41] font-bold mono flex items-center gap-2 hover:bg-[#00FF41]/10 transition-colors"
+                >
+                  DOWNLOAD_INTEL.PDF <Download size={18} />
+                </a>
 
                 </div>
               </div>
