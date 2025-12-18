@@ -149,7 +149,7 @@ const App: React.FC = () => {
                     <div className="absolute inset-0 bg-white/20 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-500"></div>
                   </a>
                   <a 
-                    href="https://github.com/hxppyKhoza/Potfolio-Website/blob/main/Happy_Khoza_Junior_AI_ML_Developer_CV.pdf"
+                    href="https://raw.githubusercontent.com/hxppyKhoza/Potfolio-Website/blob/main/Happy_Khoza_Junior_AI_ML_Developer_CV.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     download
